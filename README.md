@@ -1,30 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Talha Bayyar</title>
-</head>
-<body>
-    
-    <!-- Ana Baslik -->
-    <h1><span style="color: orange;">Talha Bayyar</span></h1>
+# HTML Ödev 2 - Kişisel Sayfamızı Detaylandırmaya Devam Etmek
 
-    <!-- Alt Başlık -->
-    <h2>Hakkımda</h2>
-    <!-- Hakkımda Kısmının İçeriği -->
-    <p>Merhalar Ahmet Talha Bayyar 23 yaşındayım Osmangazi Üniversitesi İktsat Bölümü mezunuyum ikinci üniversite olarak da Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim <br>yazılım ve programlama alanında kariyer hedeflerim doğrultusunda <a style="color: red;" href="https://app.patika.dev/">Patika</a> ve <a style="color: red;" href="https://kodluyoruz.org/tr/kodluyoruz/">Kodluyoruz</a> eğitimleri ile gelişimime devam ediyorum</p>
-    <br>
-    <br>
-    <h2>Hobilerim</h2>
-    <p>
-        <ul>
-            <li>Sinema</li>
-            <li>futbol oynamak</li>
-            <li>yazılım</li>
-            <li>doğa yürüşleri</li>
-        </ul>
-    </p>
-</body>
-</html>
+### Bu repository'de Kodluyoruz.org ve Patika.dev işbirliğiyle, "Başlangıç Seviye Django ile Web Development Patikası" içerisinde bulunan "HTML" konusunun ikinci ödevini yaptım.
+
+ ## **Talha Bayyar** ##
+
+## **Hakkımda**
+
+
+#### Merhalar Ahmet Talha Bayyar 23 yaşındayım Osmangazi Üniversitesi İktsat Bölümü mezunuyum ikinci üniversite olarak da Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim <br>yazılım ve programlama alanında kariyer hedeflerim doğrultusunda
+
+## Hobilerim
+
+- Sinema
+- futbol oynamak
+- yazılım
+- doğa yürüşleri
+
+## Film
+
+ - Baba
+ - [Esaretin Bedeli](https://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1a264172-ae11-42e4-8ef7-7fed1973bb8f&pf_rd_r=CVQMXKCJNAHH5NHMXKDH&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1)
+ - Kara Şövalye
+ - 12 Öfkeli Adam
+ - Schindler'in Listesi
+
+
+## Dizi
+
+- Çernobil
+- [Sherlock](https://www.imdb.com/title/tt1475582/?ref_=ttls_li_tt) 
+- Dark
+- Taht Oyunları
+- Köprü
+
+## Sevdiğim Kitap
+
+
+![Uçurtma Avcısı](images/images.jpg)
+
+Uçurtma Avcısı, Afganistan doğumlu Amerikalı yazar Khaled Hosseini'nin ilk romanıdır. Kitapta dostluk, arkadaşlık, sevgi, ihanet, barış temalarına değinilmiştir. 2003 yılında yayımlanan kitap, bir Afgan tarafından İngilizce yazılmış ilk romandır
+
+
+
+
+
+
+
+
+
+
+
